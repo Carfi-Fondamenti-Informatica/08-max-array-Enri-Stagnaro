@@ -1,1 +1,1 @@
-int funzione(float a, float b, float c, float d);
+float maggiore(float numero[], int n);
